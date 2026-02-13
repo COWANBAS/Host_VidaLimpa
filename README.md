@@ -2,6 +2,7 @@
 * Windows
 <br><br> 
 Para usar o host, basta ir no diretório "C:\Windows\System32\drivers\etc" e colar o arquivo "Hosts" que automaticamente bloqueará qualquer tentativa de acessar os sites inseridos.
+
 * Linux
 <br><br> 
 Coloque no terminal sudo "nano /etc/hosts" após isso copie e cole o que tem dentro do arquivo Hosts.
