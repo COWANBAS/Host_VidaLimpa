@@ -5,7 +5,7 @@ Para usar o host, basta ir no diretório "C:\Windows\System32\drivers\etc" e col
 
 * Linux
 
-Coloque no terminal sudo "nano /etc/hosts" após isso copie e cole o que tem dentro do arquivo Hosts.
+Coloque no terminal "sudo nano /etc/hosts" após isso copie e cole o que tem dentro do arquivo Hosts.
   
 ## Funcionalidade
 
