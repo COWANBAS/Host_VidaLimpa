@@ -1,7 +1,7 @@
 # COMO USAR
 * Windows
 
-Para usar o host, basta ir no diretório "C:\Windows\System32\drivers\etc" e colar o arquivo "Hosts" que automaticamente bloqueará qualquer tentativa de acessar os sites inseridos.
+Para usar o host, basta ir no diretório "C:\Windows\System32\drivers\etc" e abrir o arquivo "Hosts" e colar os sites do arquivo\ que automaticamente bloqueará qualquer tentativa de acessar os sites inseridos.
 
 * Linux
 
