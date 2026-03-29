@@ -15,4 +15,4 @@ No arquivo "hosts" existe a opção de se hospedar um servidor com o código "12
 
 ![image](https://github.com/user-attachments/assets/b5f75896-ae9e-4462-a9d6-aaab625bcde4)
 
-O site não consegue encontrar gerar o servidor e, eventualmente, é bloqueado.
+O site não consegue encontrar o host original, pois tenta gerar o servidor na sua própria máquina e, eventualmente, é bloqueado.
